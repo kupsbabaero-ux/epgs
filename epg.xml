@@ -3,48 +3,6 @@
   <channel id="cinemo.ph">
     <display-name>CineMo</display-name>
   </channel>
-  <programme start="20261127000000 +0800" stop="20261127010000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-  </programme>
-  <programme start="20261127010000 +0800" stop="20261127030000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinesaya</title>
-  </programme>
-  <programme start="20261127030000 +0800" stop="20261127040000 +0800" channel="cinemo.ph">
-    <title lang="en">Cineserye</title>
-  </programme>
-  <programme start="20261127040000 +0800" stop="20261127060000 +0800" channel="cinemo.ph">
-    <title lang="en">Super Sine</title>
-  </programme>
-  <programme start="20261127060000 +0800" stop="20261127080000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinetakilya</title>
-  </programme>
-  <programme start="20261127080000 +0800" stop="20261127100000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekomedya</title>
-  </programme>
-  <programme start="20261127100000 +0800" stop="20261127120000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinesaya</title>
-  </programme>
-  <programme start="20261127120000 +0800" stop="20261127140000 +0800" channel="cinemo.ph">
-    <title lang="en">Cineastig</title>
-  </programme>
-  <programme start="20261127140000 +0800" stop="20261127160000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekamao</title>
-  </programme>
-  <programme start="20261127160000 +0800" stop="20261127180000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinetawanan</title>
-  </programme>
-  <programme start="20261127180000 +0800" stop="20261127200000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinebarako</title>
-  </programme>
-  <programme start="20261127200000 +0800" stop="20261127210000 +0800" channel="cinemo.ph">
-    <title lang="en">Cineserye</title>
-  </programme>
-  <programme start="20261127210000 +0800" stop="20261127230000 +0800" channel="cinemo.ph">
-    <title lang="en">Cineaksyon</title>
-  </programme>
-  <programme start="20261127230000 +0800" stop="20261128000000 +0800" channel="cinemo.ph">
-    <title lang="en">Cinekwela</title>
-  </programme>
   <programme start="20261128000000 +0800" stop="20261128010000 +0800" channel="cinemo.ph">
     <title lang="en">Cinekwela</title>
   </programme>
@@ -289,6 +247,48 @@
     <title lang="en">Cineaksyon</title>
   </programme>
   <programme start="20261203230000 +0800" stop="20261204000000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+  </programme>
+  <programme start="20261204000000 +0800" stop="20261204010000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekwela</title>
+  </programme>
+  <programme start="20261204010000 +0800" stop="20261204030000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinesaya</title>
+  </programme>
+  <programme start="20261204030000 +0800" stop="20261204040000 +0800" channel="cinemo.ph">
+    <title lang="en">Cineserye</title>
+  </programme>
+  <programme start="20261204040000 +0800" stop="20261204060000 +0800" channel="cinemo.ph">
+    <title lang="en">Super Sine</title>
+  </programme>
+  <programme start="20261204060000 +0800" stop="20261204080000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinetakilya</title>
+  </programme>
+  <programme start="20261204080000 +0800" stop="20261204100000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekomedya</title>
+  </programme>
+  <programme start="20261204100000 +0800" stop="20261204120000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinesaya</title>
+  </programme>
+  <programme start="20261204120000 +0800" stop="20261204140000 +0800" channel="cinemo.ph">
+    <title lang="en">Cineastig</title>
+  </programme>
+  <programme start="20261204140000 +0800" stop="20261204160000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinekamao</title>
+  </programme>
+  <programme start="20261204160000 +0800" stop="20261204180000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinetawanan</title>
+  </programme>
+  <programme start="20261204180000 +0800" stop="20261204200000 +0800" channel="cinemo.ph">
+    <title lang="en">Cinebarako</title>
+  </programme>
+  <programme start="20261204200000 +0800" stop="20261204210000 +0800" channel="cinemo.ph">
+    <title lang="en">Cineserye</title>
+  </programme>
+  <programme start="20261204210000 +0800" stop="20261204230000 +0800" channel="cinemo.ph">
+    <title lang="en">Cineaksyon</title>
+  </programme>
+  <programme start="20261204230000 +0800" stop="20261205000000 +0800" channel="cinemo.ph">
     <title lang="en">Cinekwela</title>
   </programme>
 </tv>
